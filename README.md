@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Test-grid.jpg)
+![](Test-grid.jpg)
 
 
 
 ### Links
 
 - Solution Repository: https://github.com/lizanette/testimonial-grid-section
-- Live Site URL: 
+- Live Site URL: https://lizanette.github.io/testimonial-grid-section/
 
 ## My process
 
