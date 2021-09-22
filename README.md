@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Test-grid.jpg)
-
+![Test-grid](https://user-images.githubusercontent.com/76983919/134384072-13bcc3ab-4e97-46d6-84d2-932d4d4a8802.png)
 
 
 ### Links
